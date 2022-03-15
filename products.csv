@@ -1,0 +1,27 @@
+name,type,baking_time,oven_temperature,price
+Cinnamon bun,bun,90,250,20
+Raisin bread,bread,80,200,30
+Banana bread,bread,60,175,35
+Chocolate chip cookie,cookie,120,200,15
+Princess cake,cake,50,180,350
+Apple pie,pie,90,220,45
+Butter cookies,cookie,75,200,12
+Apple-Cinnamon Muffins,muffin,30,200,30
+Banana Muffins,muffin,30,200,30
+Ciabatta,bread,70,220,35
+Rye Bread,bread,80,175,35
+Focaccia,bread,45,220,40
+Blueberry Muffins,muffin,30,210,35
+Nut and Seed Bread,bread,70,175,45
+Chocolate Chip Muffins,muffin,30,200,25
+Honey Muffins,muffin,30,215,30
+Croissants,pastry,60,220,35
+Danishes,pastry,30,200,35
+Macarons,pastry,120,150,25
+Jam Tarts,pastry,60,200,40
+Carrot Cake,cake,55,150,75
+Red Velvet Cake,cake,180,170,120
+Peanut butter cookies,cookie,85,190,17
+Cardamom bun,bun,65,190,20
+Peanut Butter Blossoms,cookie,60,190,15
+Chocolate balls,pastry,20,NA,20
